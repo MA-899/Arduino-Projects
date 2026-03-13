@@ -1,6 +1,6 @@
 # The Circuit
 
-[!circuit](counter.png)
+![circuit](counter.png)
 
 ##### [This](https://www.youtube.com/watch?v=RRsrvbeM5W8) is the test video.
 
