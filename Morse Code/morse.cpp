@@ -86,11 +86,11 @@ void loop() {
 
     for (int j = 0; j < len; j++){
       if (str[j] == '.')
-        ch_code[j] = 200;
+        ch_code[j] = 150;
       else if (str[i] == ' ')
-        ch_code[j] = 500;
+        ch_code[j] = 200;
       else
-        ch_code[j] = 500;
+        ch_code[j] = 300;
     }
 
     morse(len, ch_code, output_bin);
