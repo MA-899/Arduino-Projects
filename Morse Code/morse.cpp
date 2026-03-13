@@ -88,7 +88,7 @@ void loop() {
       if (str[j] == '.')
         ch_code[j] = 200;
       else if (str[i] == ' ')
-        ch_code[j] = 700;
+        ch_code[j] = 500;
       else
         ch_code[j] = 500;
     }
